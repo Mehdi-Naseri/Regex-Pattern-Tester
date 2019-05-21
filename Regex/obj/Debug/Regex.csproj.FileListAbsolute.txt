@@ -1,0 +1,39 @@
+d:\users\mehdi\documents\visual studio 2013\Projects\Regex\Regex\bin\Debug\Regex.exe.config
+d:\users\mehdi\documents\visual studio 2013\Projects\Regex\Regex\obj\Debug\Regex.csprojResolveAssemblyReference.cache
+d:\users\mehdi\documents\visual studio 2013\Projects\Regex\Regex\obj\Debug\MainWindow.baml
+d:\users\mehdi\documents\visual studio 2013\Projects\Regex\Regex\obj\Debug\MainWindow.g.cs
+d:\users\mehdi\documents\visual studio 2013\Projects\Regex\Regex\obj\Debug\App.g.cs
+d:\users\mehdi\documents\visual studio 2013\Projects\Regex\Regex\obj\Debug\Regex_MarkupCompile.cache
+d:\users\mehdi\documents\visual studio 2013\Projects\Regex\Regex\obj\Debug\Regex.g.resources
+d:\users\mehdi\documents\visual studio 2013\Projects\Regex\Regex\obj\Debug\Regex.Properties.Resources.resources
+d:\users\mehdi\documents\visual studio 2013\Projects\Regex\Regex\obj\Debug\Regex.csproj.GenerateResource.Cache
+d:\users\mehdi\documents\visual studio 2013\Projects\Regex\Regex\bin\Debug\Regex.exe
+d:\users\mehdi\documents\visual studio 2013\Projects\Regex\Regex\bin\Debug\Regex.pdb
+d:\users\mehdi\documents\visual studio 2013\Projects\Regex\Regex\obj\Debug\Regex.exe
+d:\users\mehdi\documents\visual studio 2013\Projects\Regex\Regex\obj\Debug\Regex.pdb
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.2\Regex\bin\Debug\Regex.exe.config
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.2\Regex\obj\Debug\Regex.exe
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.2\Regex\obj\Debug\Regex.pdb
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.2\Regex\bin\Debug\Regex.exe
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.2\Regex\bin\Debug\Regex.pdb
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.2\Regex\obj\Debug\Regex.csprojResolveAssemblyReference.cache
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.2\Regex\obj\Debug\MainWindow.baml
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.2\Regex\obj\Debug\MainWindow.g.cs
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.2\Regex\obj\Debug\App.g.cs
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.2\Regex\obj\Debug\Regex_MarkupCompile.cache
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.2\Regex\obj\Debug\Regex.g.resources
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.2\Regex\obj\Debug\Regex.Properties.Resources.resources
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.2\Regex\obj\Debug\Regex.csproj.GenerateResource.Cache
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.3\Regex\bin\Debug\Regex.exe.config
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.3\Regex\obj\Debug\Regex.exe
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.3\Regex\obj\Debug\Regex.pdb
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.3\Regex\bin\Debug\Regex.exe
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.3\Regex\bin\Debug\Regex.pdb
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.3\Regex\obj\Debug\Regex.csprojResolveAssemblyReference.cache
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.3\Regex\obj\Debug\MainWindow.baml
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.3\Regex\obj\Debug\MainWindow.g.cs
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.3\Regex\obj\Debug\App.g.cs
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.3\Regex\obj\Debug\Regex_MarkupCompile.cache
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.3\Regex\obj\Debug\Regex.g.resources
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.3\Regex\obj\Debug\Regex.Properties.Resources.resources
+F:\M_Prg\MehdiProjects\WPF\Regex\Regex_0.0.0.3\Regex\obj\Debug\Regex.csproj.GenerateResource.Cache
